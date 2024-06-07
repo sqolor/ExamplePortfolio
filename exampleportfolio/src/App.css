@@ -108,3 +108,16 @@
 .show{
   background-color: #777;
 }
+.Footer{
+  background-color: #333;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: 2rem;
+  padding: 0 1rem;
+  z-index: 999;
+  align-content: center;
+  justify-content: center;
+  font-size: small;
+}
