@@ -1,0 +1,17 @@
+.BannerText{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Banner {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+.BannerImage{
+    height: 10rem;
+    width: 100%;
+}

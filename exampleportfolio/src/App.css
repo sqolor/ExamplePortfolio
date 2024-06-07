@@ -37,6 +37,8 @@
   }
 }
 .nav {
+  position: sticky;
+  top: 0;
   background-color: #333;
   color: white;
   display: flex;
@@ -44,6 +46,7 @@
   align-items: stretch;
   gap: 2rem;
   padding: 0 1rem;
+  z-index: 999;
 }
 
 .site-title {
